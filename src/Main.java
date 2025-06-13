@@ -61,6 +61,6 @@ public class Main {
         System.out.println();
         System.out.println("Primary Diagonal: " + Arrays.toString(primaryDiagonal));
         System.out.println("Secondary Diagonal: " + Arrays.toString(secondaryDiagonal));
-
+        scanner.close();
     }
 }
